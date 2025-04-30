@@ -4,6 +4,7 @@
   "description": "Chess game",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "jest"
   },
   "author": "sazanka",
